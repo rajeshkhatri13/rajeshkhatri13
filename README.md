@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 **Just a Introduction:**
 
-Hi, I'm Chetan Rakhra, A Student and Lerner 🚀 from Punjab, India, currently 💻 doing my undergraduate Btech (final year) from MIMIT Malout and I am passionate about technology and want to learn & explore new technologies I'm an Intern 💻  Beside's Computer Science, I love photography and playing basketball and cricket.
+Hi, I'm Chetan Rakhra, A Student and Learner 🚀 from Punjab, India, currently 💻 doing my undergraduate Btech (final year) from MIMIT Malout and I am passionate about technology and want to learn & explore new technologies I'm an Intern 💻  Beside's Computer Science, I love photography and playing basketball and cricket.
 
 
 ## My GitHub contributions as a Game of Life
