@@ -71,7 +71,6 @@ Hi, I'm Chetan Rakhra, A Student and Learner 🚀 from Punjab, India, currently 
 - 🌱 I’m currently learning Django and Flask and after i will go for React
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on making any tech community
-- 😄 Pronouns He/Him
 - ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/chetanrakhra) in 2020 Also made a tech insta account [Python Blog](https://www.instagram.com/Py.prog/)
 - 📫 How to reach me:chetanrakhra@gmail.com
 - 📝[Resume](https://www.linkedin.com/in/chetan-rakhra-8126bb145/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACMqYc4Bcmrbq1Fkz-7NiPh6jS21cQHvG98,1594114887161)/)
