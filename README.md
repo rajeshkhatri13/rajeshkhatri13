@@ -67,7 +67,6 @@ Hi, I'm Rajesh Khatri, A Coder, Designer, Web Developer, UI/UX Designer, UI/UX D
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on making any tech community
 - 📫 How to reach me: rajeshkhatri13@gmail.com, or website: https://www.psd2concrete5.com/
-- 📝[Resume](https://www.linkedin.com/in/chetan-rakhra-8126bb145/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACMqYc4Bcmrbq1Fkz-7NiPh6jS21cQHvG98,1594114887161)/)
 
 
 ![Rajesh's github stats](https://github-readme-stats.vercel.app/api?username=rajeshkhatri13&show_icons=true&theme=tokyonight)
