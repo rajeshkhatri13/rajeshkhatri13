@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 <!--
-**chetanrakhra/chetanrakhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rajeshkhatri13/rajeshkhatri13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  
  <h2 align="center">Welcome To My Repository</h2>
- <p align="center">Chetan Rakhra </p>
+ <p align="center">Rajesh Khatri </p>
 </p>
 
 
@@ -30,21 +30,21 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/chetanrakhra/count.svg" />
+  <img src="https://profile-counter.glitch.me/rajeshkhatri13/count.svg" />
 </p>
 
 
 
-<a href="https://twitter.com/">
+<a href="https://twitter.com/rajeshkhatri13">
 <img align="left" alt="Chetan Rakhra" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/chetan-rakhra-8126bb145/">
+<a href="https://www.linkedin.com/in/rajeshkhatri13/">
 <img align="left" alt="Chetan Rakhra LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Priyanka Prasad:Tec-177">
-<img align="left" alt="Chetan Rakhra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://www.facebook.com/raj.khatri.3348">
+<img align="left" alt="Chetan Rakhra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/el_resistant/">
+<a href="https://www.instagram.com/rajeshkhatri13/">
 <img align="left" alt="Chetan Rakhra Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -54,12 +54,7 @@ Here are some ideas to get you started:
 
 **Just a Introduction:**
 
-Hi, I'm Chetan Rakhra, A Student and Learner 🚀 from Punjab, India, currently 💻 doing my undergraduate Btech (final year) from MIMIT Malout and I am passionate about technology and want to learn & explore new technologies I'm an Intern 💻  Beside's Computer Science, I love photography and playing basketball and cricket.
-
-
-## My GitHub contributions as a Game of Life
-[![GitHub Game of Life](https://github4life.herokuapp.com/chetanrakhra.gif?z=6)](https://github4life.herokuapp.com/chetanrakhra)
-
+Hi, I'm Rajesh Khatri, A Coder, Designer, Web Developer, UI/UX Designer, UI/UX Developer 🚀 from Ahmedabad - Gujarat, India. I am passionate about technology and want to learn & explore new technologies. 
 
 
 
@@ -68,11 +63,10 @@ Hi, I'm Chetan Rakhra, A Student and Learner 🚀 from Punjab, India, currently 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 👧 I’m currently partcipating in as much Hackathons as I can 
-- 🌱 I’m currently learning Django and Flask and after i will go for React
+- 🌱 I’m currently learning Angular and after i will go for React
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on making any tech community
-- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/chetanrakhra) in 2020 Also made a tech insta account [Python Blog](https://www.instagram.com/Py.prog/)
-- 📫 How to reach me:chetanrakhra@gmail.com
+- 📫 How to reach me:rajeshkhatri13@gmail.com, or website: https://www.psd2concrete5.com/
 - 📝[Resume](https://www.linkedin.com/in/chetan-rakhra-8126bb145/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACMqYc4Bcmrbq1Fkz-7NiPh6jS21cQHvG98,1594114887161)/)
 
 
