@@ -62,7 +62,6 @@ Hi, I'm Rajesh Khatri, A Coder, Designer, Web Developer, UI/UX Designer, UI/UX D
   
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 👧 I’m currently partcipating in as much Hackathons as I can 
 - 🌱 I’m currently learning Angular and after i will go for React
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on making any tech community
